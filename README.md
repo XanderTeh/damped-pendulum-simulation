@@ -1,2 +1,2 @@
 # damped-pendulum-simulation
-First project trying to mathematically model a pendulum
+Investigating the motion of a simple pendulum using mathematical modelling and numerical simulation
