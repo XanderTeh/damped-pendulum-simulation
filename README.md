@@ -160,3 +160,20 @@ Using numerical methods, a pendulum can be effectively modeled using Euler's Met
 
 
 Different damping coefficients can be chosen to produce different results, with larger damping coefficients leading to more effective damping, causing the amplitude of the oscillations to decrease quicker. With larger initial angles, the path of the pendulum should largely remain unchanged but small angle approximations can no longer be used and the path of the pedulum may diverge from the path of a small angle approximation. This model uses a similar methodology to the models of more complex concepts, such as orbital mechanics and a two-body system, similarly involving differential equations and finding a numerical or analytical solution.
+
+## References 
+
+
+(https://math.libretexts.org/Courses/Monroe_Community_College/MTH_225_Differential_Equations/03%3A_Numerical_Methods/3.01%3A_Euler's_Method)
+
+(https://web.physics.ucsb.edu/~lecturedemonstrations/Composer/Pages/40.37.html)
+
+(https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Scientific_Computing_(Chasnov)/II%3A_Dynamical_Systems_and_Chaos/10%3A_The_Simple_Pendulum)
+
+(https://commons.erau.edu/cgi/viewcontent.cgi?article=2483&context=discovery-day)
+
+(https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman)/12%3A_B_-_Ordinary_Differential_Equations_Review/12.02%3A_Second_Order_Linear_Differential_Equations)
+
+(http://maeresearch.ucsd.edu/~vlubarda/research/pdfpapers/EJP_21.pdf)
+
+(https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/15%3A_Oscillations/15.06%3A_Damped_Oscillations)
